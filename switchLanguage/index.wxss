@@ -1,0 +1,7 @@
+/* components/switchLanguage/index.wxss */
+.switch-language-box {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  border: 1px solid gray;
+}

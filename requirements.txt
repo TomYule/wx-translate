@@ -1,0 +1,5 @@
+textblob
+opencc
+httpx==0.18.2
+httpcore==0.13.7
+requests
